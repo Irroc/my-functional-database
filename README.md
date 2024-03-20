@@ -33,3 +33,6 @@ This is a working database used to store and retrieve data from mysql using Java
 
 - [GitHub Repository](https://github.com/Irroc/my-functional-database.com)
 
+## Tests
+
+[Untitled_ Feb 4, 2024 6_04 PM.webm](https://github.com/Irroc/my-functional-database/assets/145403276/8aa01d2c-105a-4efb-a87d-6b4d604067af)
